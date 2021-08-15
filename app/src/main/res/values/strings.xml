@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SketchCam Plus</string>
+    <string name="fb_appid">230818015518326</string>
+    <string name="filter">Filter</string>
+    <string name="adjust">Adjust</string>
+    <string name="sketch">Sketch</string>
+    <string name="struck">Struck</string>
+    <string name="whisper">Whisper</string>
+    <string name="lime">Lime</string>
+    <string name="amazon">Amazon</string>
+    <string name="adele">Adele</string>
+    <string name="cruz">Cruz</string>
+    <string name="metropolis">Metropolis</string>
+    <string name="audrey">Audrey</string>
+    <string name="rise">Rise</string>
+    <string name="mars">Mars</string>
+    <string name="april">April</string>
+    <string name="haan">Haan</string>
+    <string name="oldman">Oldman</string>
+    <string name="clarendon">Clarendon</string>
+    <string name="starlit">Starlit</string>
+    <string name="bluemess">Bluemess</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="highlight">Highlight</string>
+    <string name="temp">Tempreature</string>
+    <string name="tone">Tone</string>
+    <string name="saturation">Saturation</string>
+    <string name="directory">/Sketch Camera/</string>
+
+
+    <string name="item_1">Sketch</string>
+    <string name="item_2">Filter</string>
+    <string name="item_3">Adjust</string>
+</resources>

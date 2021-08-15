@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_sketh"
+        android:icon="@drawable/ic_sketch"
+        android:title="@string/item_1"/>
+    <item
+        android:id="@+id/id_filter"
+        android:icon="@drawable/ic_filter"
+        android:title="@string/item_2"/>
+    <item
+        android:id="@+id/id_adjust"
+        android:icon="@drawable/ic__adjust"
+        android:title="@string/item_3"/>
+</menu>
